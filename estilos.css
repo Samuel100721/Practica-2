@@ -1,0 +1,26 @@
+body{
+	font-family: Verdana;
+	background:url('../img/lila.JPG');
+	background-repeat:repeat;
+
+}
+
+
+hi, p{
+	color:#000000;
+	text-align: center;
+}
+
+div{
+	width:60%;
+	heigth:500px;
+	background; #ffffff;
+	margin:auto;
+
+
+}
+
+.negritas{
+	font-weigth: bold;
+	font-size: 18px;
+}
